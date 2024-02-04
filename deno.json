@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts",
+    "start": "deno run --allow-env --allow-read --allow-write --allow-run main.ts"
+  }
+}
